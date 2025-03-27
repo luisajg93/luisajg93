@@ -2,7 +2,9 @@
   <img decoding="async" src="https://github.com/luisajg93/luisajg93/blob/main/banner%20github.png" width="800"/>
 </div>
 
+<div id="badges" align="center">
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luisalbertojg)
+</div>
 
 ## Hola, soy Luis, gracias por estar aquí👋
 
