@@ -20,7 +20,7 @@
 ### :man_technologist: Sobre mí :
 
 
-Apasionado de la tecnología y disfrutando de una transición laboral a la Ciencia de Datos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Apasionado de la tecnología, 6 años de experiencia en ventas y disfrutando de una transición laboral a la Ciencia de Datos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
    
 * 🔭 Actualmente estoy trabajando en nuevos retos para demostrar mis habiliades en machine learning y python :muscle:  
 
@@ -40,7 +40,5 @@ Apasionado de la tecnología y disfrutando de una transición laboral a la Cienc
 </div>
   
  ### :fire: Mis estadísticas :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisajg93&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
