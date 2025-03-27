@@ -8,7 +8,7 @@
 
 
 <div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=luisajg93.luisajg93&color=00cf00" alt=""/>
+  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=luisajg93.luisajg93&color=00cf00" alt=""/>
 
 ## Hola, soy Luis, bienvenido👋
 
