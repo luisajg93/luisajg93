@@ -6,7 +6,6 @@
   
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisalbertojg)
 
-
 <div id="badges" align="center">
   <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=luisajg93.luisajg93&color=00cf00" alt=""/>
 
