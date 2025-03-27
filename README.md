@@ -1,4 +1,8 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/luisajg93/luisajg93/blob/main/banner%20github.png" width="800"/>
+</div>
+
+## Hola, Soy Luis, gracias por estar aquí👋
 
 <!--
 **luisajg93/luisajg93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
