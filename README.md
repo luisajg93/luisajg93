@@ -10,7 +10,7 @@
   <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=luisajg93.luisajg93&color=00cf00" alt=""/>
 
 <h1>
-  Hola soy Luis ¡bienvenido! 
+  Hola, soy Luis ¡gracias por estar aquí! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -22,7 +22,7 @@
 
 Apasionado de la tecnología y disfrutando de una transición laboral a la Ciencia de Datos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
    
-* 🔭 Actualmente estoy trabajando en nuevos retos para construir un portafolio robusto que demuestre mis habiliades en machine learning y python:muscle:  
+* 🔭 Actualmente estoy trabajando en nuevos retos para demostrar mis habiliades en machine learning y python :muscle:  
 
 * ❤️ Me encanta encontrar valor en los datos para poder convertirlos en historias que muevan y estrategias que impacten.
   
@@ -41,6 +41,6 @@ Apasionado de la tecnología y disfrutando de una transición laboral a la Cienc
   
  ### :fire: Mis estadísticas :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisajg93&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
