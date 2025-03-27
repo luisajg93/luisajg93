@@ -6,8 +6,11 @@
   
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisalbertojg)
 
+div id="badges" align="center">
 
-## Hola, soy Luis, gracias por estar aquí👋
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=luisajg93.luisajg93&color=00cf00" alt=""/>
+
+## Hola, soy Luis, bienvenido👋
 
 <!--
 **luisajg93/luisajg93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
