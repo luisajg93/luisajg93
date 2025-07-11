@@ -20,13 +20,13 @@
 ### :man_technologist: Sobre mí :
 
 
-Apasionado de la tecnología, 6 años de experiencia en ventas y disfrutando de una transición laboral a la Ciencia de Datos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Apasionado de la tecnología y 6 años de experiencia en el sector farmacéutico, desarrollando un pensamiento de negocio, colaboración multidiscplinaria y enfrentando proyectos desafiantes que requieren comunicación versátil y eficaz. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
    
 * 🔭 Actualmente estoy trabajando en nuevos retos para demostrar mis habiliades en machine learning y python :muscle:  
 
 * ❤️ Me encanta encontrar valor en los datos para poder convertirlos en historias que muevan y estrategias que impacten.
   
-* En este repositorio encontrarás los proyectos que he realizado como parte de mi formación como Data Scientist en TripleTen, así como nuevos proyectos que me apasionen.
+* En este repositorio encontrarás los proyectos que he realizado como parte de mi formación como Data Scientist, así como nuevos proyectos que encuentro apasionantes.
   
 ---
    
