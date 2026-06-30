@@ -200,7 +200,13 @@ Bridging commercial strategy with predictive modeling.
 
 ## GitHub Analytics
 
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=luisajg93&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisajg93&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=luisajg93&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Luis Alberto Jiménez GitHub stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisajg93&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Luis Alberto Jiménez top languages" />
+
+</div>
 
 ## Beyond Data Science
 
@@ -220,4 +226,4 @@ I believe curiosity and continuous learning are essential to building better pro
 </p>
 
 
-</div> ```
+</div> 
