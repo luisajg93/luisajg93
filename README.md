@@ -198,16 +198,6 @@ Bridging commercial strategy with predictive modeling.
 
 </td> </tr> </table>
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=luisajg93&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Luis Alberto Jiménez GitHub stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisajg93&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Luis Alberto Jiménez top languages" />
-
-</div>
-
 ## Beyond Data Science
 
 Beyond my technical work, I enjoy studying Tibetan Buddhist philosophy and exploring how timeless principles can improve decision-making, ethics, leadership, and long-term thinking.
